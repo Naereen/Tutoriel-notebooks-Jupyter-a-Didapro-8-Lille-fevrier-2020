@@ -1,6 +1,8 @@
 # Tutoriel-notebooks-Jupyter-a-Didapro-8-Lille-fevrier-2020
 Introduction aux notebooks Jupyter
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Naereen/Tutoriel-notebooks-Jupyter-a-Didapro-8-Lille-fevrier-2020/master)
+
 Ce tutoriel durera 55 minutes, durant la journée de mercredi 05 février, à la [conférence Didapro 8](https://www.didapro.org/8/programme/#atelier), à Lille.
 
 - Suivez d'abord la présentation, puis il y a aura une activité à faire par vous même, avant de terminer par plusieurs démonstrations.
