@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - watermark
+  - ipywidgets
+  - tqdm
+  - rise
+  - pip:
+    - jupyter-contrib-nbextensions
