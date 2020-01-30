@@ -1,8 +1,6 @@
 dependencies:
   - python
+  - jupyter
   - numpy
   - matplotlib
-  - watermark
-  - ipywidgets
-  - tqdm
   - rise

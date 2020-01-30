@@ -1,10 +1,10 @@
 # --- For the notebooks
 jupyter
 ipython
-watermark
-ipywidgets
+#watermark
+#ipywidgets
 
 # --- For the codebase
-tqdm>=4.0
+#tqdm>=4.0
 numpy>=1.14
 matplotlib>=2.0
