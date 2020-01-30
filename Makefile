@@ -7,9 +7,6 @@ send:	send_zamok
 send_zamok:
 	CP --exclude=.ipynb_checkpoints --exclude=.git ./ ${Szam}publis/Tutoriel-notebooks-Jupyter-a-Didapro-8-Lille-fevrier-2020/
 
-export:
-	./export.sh
-
 CONTENT_IPYNB=$(wildcard *.ipynb */*.ipynb)
 CONTENT_HTML=$(CONTENT_IPYNB:.ipynb=.html)
 
