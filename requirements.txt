@@ -3,6 +3,7 @@ jupyter
 ipython
 #watermark
 #ipywidgets
+rise
 
 # --- For the codebase
 #tqdm>=4.0

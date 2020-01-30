@@ -1,6 +1,0 @@
-dependencies:
-  - python
-  - jupyter
-  - numpy
-  - matplotlib
-  - rise
